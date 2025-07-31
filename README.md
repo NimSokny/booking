@@ -58,7 +58,8 @@ nav{
 ```
 
 ## Check list
-- [x] Home page
+
+- [x] Home page`
 - [x] about page
 - [ ] contact page
 - [ ] contact page
@@ -71,4 +72,6 @@ CSS framework [Tailwindcss](https://www.w3schools.com/)
 
 ![Picture](image.png)
 
+## Badge
 
+[![Button](https://img.shields.io/badge/Visit-Website-blue)]
