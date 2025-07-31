@@ -57,3 +57,7 @@ nav{
 }
 ```
 
+## Check list
+- [x] Home page
+- [x] about page
+- [ ] contact page
